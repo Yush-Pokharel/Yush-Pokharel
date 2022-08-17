@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yush-Pokharel
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning django
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning more about myself
 - 💞️ I’m looking to collaborate on hackathons 
 
 <!---
